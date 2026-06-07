@@ -1,0 +1,6 @@
+{
+  "name": "EasyCVMaker",
+  "description": "منصة احترافية متكاملة لإنشاء وتصميم السيرة الذاتية (SaaS Resume Builder) مع قوالب مجانية معتمدة ومحسنة لأنظمة التوظيف ATS وتصدير PDF فوري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
